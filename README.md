@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Run `pip3 install -r requirements.txt` to install the required dependencies. To plot the result and analye the loss value `matplotlib` is required too.
+Run `pip3 install -r requirements.txt` to install the required dependencies. To plot the result and analyse the loss value `matplotlib` is required too.
 
 ## Running
 
