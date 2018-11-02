@@ -16,7 +16,7 @@ To generate the Keras model run `python3 ddm.py generate_model --saveHistory Tru
 
 ## Authors
 
-* **Andre Hofmeister** - *Initial work* - [padme-amidala](https://github.com/padme-amidala/)
+* **Andre Hofmeister** - *Initial work* - [HofmeisterAn](https://github.com/HofmeisterAn/)
 
 ## License
 
